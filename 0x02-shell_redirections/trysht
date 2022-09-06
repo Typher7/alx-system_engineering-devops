@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "The file name is:"
+echo $1
