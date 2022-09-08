@@ -3,3 +3,4 @@ sudo chmod u+x $1
 sudo git add .
 sudo git commit -m "$1"
 sudo git push
+#no worries, I will re-commit evrth later
